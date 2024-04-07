@@ -10,5 +10,5 @@ My name is Gitty Feigenbaum and I am a beginner programmer just graduating colle
 ## References:
   :blush: upon request
 #
-<img src="[C:\Users\Gitty\Documents\MAALOT\Winter Semester\Capture.PNG](https://github.com/hodShebehod/wordle-project/blob/main/Capture.PNG)" width="256"/>
+<img src="(https://github.com/hodShebehod/wordle-project/blob/main/Capture.PNG)" width="256"/>
 C:\Users\Gitty\Documents\MAALOT\Winter Semester\Capture.PNG
